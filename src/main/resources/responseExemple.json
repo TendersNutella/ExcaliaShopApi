@@ -1,0 +1,39 @@
+{
+  "summary": {
+    "shops": 8,
+    "dynamicItems": 507
+  },
+  "shops": [
+    {
+      "id": "shop_alchimiste",
+      "meta": {
+        "icon": "⚗️",
+        "label": "Alchimiste"
+      },
+      "dynamicCount": 0,
+      "items": [
+        {
+          "shopId": "shop_alchimiste",
+          "page": 1,
+          "slot": 10,
+          "type": "POTION",
+          "sellPrice": 20,
+          "sellCurrency": "Skydollars",
+          "displayName": {
+            "primary": "Potion",
+            "secondary": "Régénération (15:00)"
+          },
+          "iconUrl": "https://excalia.fr/mc/1.21.11/item/potion.png"
+        }
+      ]
+    }
+  ],
+  "histories": {
+    "shop_bucheron:1:10": [
+      {
+        "t": 1778700600000,
+        "price": 0.18
+      }
+    ]
+  }
+}
