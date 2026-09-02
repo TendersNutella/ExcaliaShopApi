@@ -1,2 +1,4 @@
-public record DisplayName(String primary, String secondary) {
-}
+public record DisplayName(
+        String primary,
+        String secondary
+){}

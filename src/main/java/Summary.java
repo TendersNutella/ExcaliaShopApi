@@ -1,2 +1,4 @@
-public record Summary(int shops, double dynamicItems) {
-}
+public record Summary(
+        int shops,
+        double dynamicItems
+){}

@@ -1,2 +1,4 @@
-public record PriceHistory(long t, double price) {
-}
+public record PriceHistory(
+        long t,
+        double price
+){}

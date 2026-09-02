@@ -1,4 +1,6 @@
 import java.util.List;
 
-public record Shop(String id, List<Item> items) {
-}
+public record Shop(
+        String id,
+        List<Item> items
+){}
