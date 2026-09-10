@@ -1,6 +1,6 @@
 package mockdata;
 
-import exeptions.ShopNotFoundException;
+import exception.ShopNotFoundException;
 import http.HttpUtils;
 import beans.ExcaliaResponse;
 import beans.Item;

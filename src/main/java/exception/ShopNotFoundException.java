@@ -1,4 +1,4 @@
-package exeptions;
+package exception;
 
 public class ShopNotFoundException extends RuntimeException {
     public ShopNotFoundException(String shopId) {
