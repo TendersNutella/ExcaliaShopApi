@@ -1,3 +1,5 @@
+package beans;
+
 import java.util.List;
 
 public record Shop(
